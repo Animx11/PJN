@@ -1,0 +1,13 @@
+Używając wybranego toolkitu NLP napisz program, który dla podanego zdania wykonuje następujące operacje:
+
+1. Dzielenie na tokeny (słowa)
+
+2. Oznaczenie części mowy.
+
+3. Stwierdzenie, czy zdanie zawiera rozkaz (jeśli nie, to KONIEC).
+
+4. Jeśli zdanie zawiera rozkaz, np. "zmniejsz głośność odtwarzacza muzyki", zwrócenie następujących informacji:
+
+akcja: "zmniejsz", obiekt: "głośność odtwarzacza muzyki"
+
+W pliku mainEN znajduje się program wykonany dla języka angielskiego, a w mainPL dla języka polskiego.
