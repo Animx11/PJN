@@ -1,0 +1,9 @@
+Wykonaj jedno z następujących zadań:
+
+  1)  Automatyczny stemming algorytmem Portera (dla języka angielskiego lub polskiego)
+  2)  Automatyczna lematyzacja i POS-tagging języka polskiego - wejściem jest słowo odmienione np. "poszedłem", na wyjściu pojawia się słowo "pójść" oraz informacja, że jest to czasownik.
+  3)  Odmiana fleksyjna języka polskiego -  na wejściu jest słowo "pójść" oraz specyfikacja odmienionej formy: "l. poj., r. męski, cz. przeszły". Program podaje: "poszedłem".
+
+	Tu zostało wykonane zadanie 2.
+
+Zadanie bez użycia toolkitów NLP. W zadaniach 2 i 3 można (i należy) korzystać ze słownika (np. Polimorf).
