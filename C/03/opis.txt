@@ -1,0 +1,1 @@
+Wypisać 123 linię wejścia.

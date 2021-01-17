@@ -1,0 +1,1 @@
+W kolejnych wierszach dane są informacje na temat samochodów (marka, model, prędkość maksymalna). Napisać program, który wypisze prędkość najszybszego samochodu.

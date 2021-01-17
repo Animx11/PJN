@@ -1,0 +1,1 @@
+Napisać program, który policzy liczbę słów w tekście (ale nie policzy interpunkcji).

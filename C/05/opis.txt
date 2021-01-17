@@ -1,0 +1,1 @@
+Napisać program, który policzy sumaryczną ilość dwuznaków "cz" i "sz" na wejściu.

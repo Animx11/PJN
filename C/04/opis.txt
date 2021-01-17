@@ -1,0 +1,1 @@
+Wypisać linie od 10 do 20 włącznie (razem 11 linii).
