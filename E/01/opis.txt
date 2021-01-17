@@ -1,0 +1,1 @@
+Zaimplementuj w Pythonie algorytm MaxMatch dla języka polskiego. Wykorzystaj słownik PoliMorf - http://zil.ipipan.waw.pl/PoliMorf.

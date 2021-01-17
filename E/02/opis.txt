@@ -1,0 +1,1 @@
+Zaimplementuj w Pythonie algorytm BPE dla tekstu wejściowego według opisu podanego na wykładzie. Wejściem do algorytmu powinien być tekst oraz żądana liczba wejść w słowniku. W wyniku program powinien zwracać ostateczny wygląd słownika (jednostki "podwyrazowe" wraz z licznością).
