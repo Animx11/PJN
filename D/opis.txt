@@ -1,0 +1,1 @@
+Przy użyciu Python PLY napisz parser języka poleceń do obsługi magazynu, prezentowanego na wykładzie. Program powinien przechowywać stan magazynu w strukturach danych Pythona. Poprawne wykonanie tego programu oceniane jest na 30 punktów. 40 punktów można uzyskać, jeśli doda się obsługę pytań "How many" oraz komendę "Bye".
